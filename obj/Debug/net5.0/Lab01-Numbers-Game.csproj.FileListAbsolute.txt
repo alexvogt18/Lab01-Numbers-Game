@@ -1,0 +1,15 @@
+/Users/alexvogt18/Documents/projects/codefellows/401.NET/Lab01-Numbers-Game/bin/Debug/net5.0/Lab01-Numbers-Game.deps.json
+/Users/alexvogt18/Documents/projects/codefellows/401.NET/Lab01-Numbers-Game/bin/Debug/net5.0/Lab01-Numbers-Game.runtimeconfig.json
+/Users/alexvogt18/Documents/projects/codefellows/401.NET/Lab01-Numbers-Game/bin/Debug/net5.0/Lab01-Numbers-Game.runtimeconfig.dev.json
+/Users/alexvogt18/Documents/projects/codefellows/401.NET/Lab01-Numbers-Game/bin/Debug/net5.0/Lab01-Numbers-Game.dll
+/Users/alexvogt18/Documents/projects/codefellows/401.NET/Lab01-Numbers-Game/bin/Debug/net5.0/ref/Lab01-Numbers-Game.dll
+/Users/alexvogt18/Documents/projects/codefellows/401.NET/Lab01-Numbers-Game/bin/Debug/net5.0/Lab01-Numbers-Game.pdb
+/Users/alexvogt18/Documents/projects/codefellows/401.NET/Lab01-Numbers-Game/obj/Debug/net5.0/Lab01-Numbers-Game.csproj.AssemblyReference.cache
+/Users/alexvogt18/Documents/projects/codefellows/401.NET/Lab01-Numbers-Game/obj/Debug/net5.0/Lab01-Numbers-Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexvogt18/Documents/projects/codefellows/401.NET/Lab01-Numbers-Game/obj/Debug/net5.0/Lab01-Numbers-Game.AssemblyInfoInputs.cache
+/Users/alexvogt18/Documents/projects/codefellows/401.NET/Lab01-Numbers-Game/obj/Debug/net5.0/Lab01-Numbers-Game.AssemblyInfo.cs
+/Users/alexvogt18/Documents/projects/codefellows/401.NET/Lab01-Numbers-Game/obj/Debug/net5.0/Lab01-Numbers-Game.csproj.CoreCompileInputs.cache
+/Users/alexvogt18/Documents/projects/codefellows/401.NET/Lab01-Numbers-Game/obj/Debug/net5.0/Lab01-Numbers-Game.dll
+/Users/alexvogt18/Documents/projects/codefellows/401.NET/Lab01-Numbers-Game/obj/Debug/net5.0/ref/Lab01-Numbers-Game.dll
+/Users/alexvogt18/Documents/projects/codefellows/401.NET/Lab01-Numbers-Game/obj/Debug/net5.0/Lab01-Numbers-Game.pdb
+/Users/alexvogt18/Documents/projects/codefellows/401.NET/Lab01-Numbers-Game/obj/Debug/net5.0/Lab01-Numbers-Game.genruntimeconfig.cache
